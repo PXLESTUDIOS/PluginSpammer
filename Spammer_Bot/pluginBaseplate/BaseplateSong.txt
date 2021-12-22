@@ -1,0 +1,7 @@
+You may change all of the text in here to the lyrics of the song
+
+remember to include a new line after every line
+
+you may look at the way this file is made to see how it looks
+
+cange the file name to the name in the song file.
